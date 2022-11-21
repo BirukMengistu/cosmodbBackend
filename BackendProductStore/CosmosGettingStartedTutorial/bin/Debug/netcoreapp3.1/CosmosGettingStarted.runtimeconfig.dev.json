@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Birdev\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Birdev\\.nuget\\packages"
+    ]
+  }
+}

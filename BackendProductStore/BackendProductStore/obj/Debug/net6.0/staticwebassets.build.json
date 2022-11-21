@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3xNmAAnybpRXyX1br5oJJ+KngHgX4IzYKbTea5Ndssk=",
+  "Source": "BackendProductStore",
+  "BasePath": "_content/BackendProductStore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
